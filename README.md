@@ -1,4 +1,7 @@
 # Rideshare Expansion Analysis & Interactive Visualization
+
+## Tableau Public Storyboard
+[Here is a link to the Tableau Public story.](https://public.tableau.com/app/profile/ethan.dirksen/viz/Module-14-Challenge_16659782276790/Story1?publish=yes)
  
 ## Overview of the analysis
 The purpose of this analysis is to determine whether a company should expand its bike-sharing program from a heavily populated city like NYC to Des Moines, a city that has a fraction of the population. I am conducting an analysis on the program based on data from NYC for the month of August 2019.
@@ -49,5 +52,3 @@ Two additional visualizations I would perform with this dataset are:
 
 The second bubble heat map would compliment the first which showcased the most popular starting location of all riders, and
 could help the audience understand how far rides typically go in that 5-10 minute window that seems to be the most popular duration. The average age of the most active riders would also help the audience to better understand who the target demographic would be.
-
-[Here is a link to the Tableau Public story.](https://public.tableau.com/app/profile/ethan.dirksen/viz/Module-14-Challenge_16659782276790/Story1?publish=yes)
