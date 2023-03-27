@@ -1,10 +1,10 @@
 # Module 14 Challenge, Deliverable 3
  
 ## Overview of the analysis
-The purpose of this analysis is to determine whether Citibike should expand its bike-sharing program from a heavily populated city like NYC to Des Moines, a city that has a fraction of the population. We are conducting an analysis on the program based on data from NYC for the month of August 2019. In this challenge, we are helping our friend Kate pitch our expansion idea to the board of investors of Citibike.
+The purpose of this analysis is to determine whether a company should expand its bike-sharing program from a heavily populated city like NYC to Des Moines, a city that has a fraction of the population. I am conducting an analysis on the program based on data from NYC for the month of August 2019.
 
 ## Results
-Here are some of the results of the analysis conducted on the Citibike data from NYC, August 2019:
+Here are the results of the analysis conducted based on the data from NYC, August 2019:
 
 ![Bar Chart: Most active rider hours](resources/1.png)
 
