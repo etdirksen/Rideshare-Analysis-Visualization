@@ -1,4 +1,4 @@
-# Module 14 Challenge, Deliverable 3
+# Rideshare Expansion Analysis & Interactive Visualization
  
 ## Overview of the analysis
 The purpose of this analysis is to determine whether a company should expand its bike-sharing program from a heavily populated city like NYC to Des Moines, a city that has a fraction of the population. I am conducting an analysis on the program based on data from NYC for the month of August 2019.
